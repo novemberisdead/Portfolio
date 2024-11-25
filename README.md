@@ -21,4 +21,4 @@ This is my personal portfolio built with React, showcasing my web development sk
 - **EmailJS**: Contact form
 - **FontAwesome**: Icons
 
->>>>>>> ab1c13c (Initial commit of my portfolio)
+
