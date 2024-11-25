@@ -1,5 +1,5 @@
 <<<<<<< HEAD
-# Portfolio
+
 # Portfolio
 
 This is my personal portfolio built with React, showcasing my web development skills, projects, and contact information. The website features smooth animations, dynamic content, and a clean user interface.
