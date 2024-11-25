@@ -12,6 +12,12 @@ const projects = [
     githubLink: "https://github.com/novemberisdead/Todo-React-Project", 
     liveSite: "https://reactappwritetodo.vercel.app/", 
   },
+  {
+    id: 2,
+    image: "/images/WeatherNow.jpg",
+    githubLink: "https://github.com/novemberisdead/WeatherNow", 
+    liveSite: "https://liveweathernow.netlify.app/", 
+  },
   
  
  
