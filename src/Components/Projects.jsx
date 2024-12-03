@@ -18,6 +18,12 @@ const projects = [
     githubLink: "https://github.com/novemberisdead/WeatherNow", 
     liveSite: "https://liveweathernow.netlify.app/", 
   },
+  {
+    id: 3,
+    image: "/images/TLLthumb.jpg",
+    githubLink: "https://github.com/novemberisdead/Save-The-Green", 
+    liveSite: "https://thelastleaves.netlify.app/", 
+  },
   
  
  
